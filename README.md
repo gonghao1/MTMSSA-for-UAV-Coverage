@@ -7,4 +7,4 @@ mtmssa_total.m and mtmssa_test_new_update2.m are the two main functions, which c
 
 You can also adjust the parameters in the codes to get the minimum UAV energy consumption and minimum task fulfillment time in any case of multi-UAV 3-D terrestrial region visual coverage.
 
-If our paper is accepted, we will open source all the code.
+If our paper is accepted, we will open source all the codes.
